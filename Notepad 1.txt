@@ -1,0 +1,50 @@
+1. Welcome page:
+URL: www.myschool.com/welcome
+<head> tag will include the school name.
+<body> tag will include :
+"We are dedicated to providing a nurturing and engaging learning environment for students of all ages,our committed teachers and staff strive to foster academic excellence and personal growth in every student,with a focus on holstic development,we offer a diverse range of academic programs, extracurricular activities,and community involvementopportunities".
+
+2. Grade section:
+<head> tag will include the grade level
+Grade 1:
+URL:www.myschool.com/grade/1
+Content:
+<head> : Grade 1
+<body> Curriculum Highlights: Introduction to basic math and language skills, arts and crafts projects, social studies exploration.
+Activities: Field trips, class presentations, interactive learning games.
+
+Grade 2:
+URL:www.myschool.com/grade/2
+Content:
+<head> : Grade 2
+<body> Curriculum Highlights: Building on math and language skills, science experiments, introduction to history.
+Activities: Group projects, sports activities, music and drama performances.
+
+Grade 3:
+URL:www.myschool.com/grade/3
+Content:
+<head> : Grade 3
+<body> Curriculum Highlights: advanced math and language concepts, hands on science investigations, geography exploration.
+Activities: science fair participation, community service projects, talent show auditions.
+
+3. Subjects section
+Math:
+URL: www.myschool.com/subject/math
+<head> : Math subject
+Teachers Subsection: www.myschool.com/subject/math/teachers
+<body> : Subject Importance: Developng f problem-solving skills and logical thinking abilities.
+Related Resources: Online math tutorials, recommended textbooks, educational math games.
+
+Science:
+URL: www.myschool.com/subject/science
+<head> : Science Subject
+Teachers Subsection: www.myschool.com/subject/science/teachers
+<body> : Subject Importance: Understanding the natural world and fostering scientific inquiry.
+Related Resources: Science experiment guides, reference books, links to educational science websites.
+
+English:
+URL: www.myschool.com/subject/english
+<head> : English Subject
+Teachers Subsection: www.myschool.com/subject/english/teachers
+<body> : Subject Importance: Enhancing communication and language skills.
+Related Resources: Grammar and vocabulary exercises, recommended reading lists,writing prompts.
